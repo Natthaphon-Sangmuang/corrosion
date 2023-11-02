@@ -1,0 +1,12 @@
+names:
+- corrosion
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: corrosion_detection-7njz6
+  url: https://universe.roboflow.com/natthaphon-sangmuang-mrsvt/corrosion_detection-7njz6/dataset/1
+  version: 1
+  workspace: natthaphon-sangmuang-mrsvt
+test: ../test/images
+train: corrosion_detection-1/train/images
+val: corrosion_detection-1/valid/images
